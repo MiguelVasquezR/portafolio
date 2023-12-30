@@ -1,0 +1,29 @@
+.containerCertificado{    
+    border: 1px solid #fff;
+    box-shadow: 3px 3px 5px rgba(255, 255, 255, .5);
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+
+}
+
+.h3{
+    font-size: 30px;
+    margin: 5px 0;
+    text-transform: uppercase;    
+}
+
+.tecnologiaTexto{
+    font-size: 20px;
+    text-align: justify;
+    margin: 10px 0;
+}
