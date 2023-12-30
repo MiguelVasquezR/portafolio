@@ -49,7 +49,7 @@ function App() {
                     <div className={styles.img__skills__container}>
                         {
                             images ?
-                                images.map((name) => { return <img src={'../public/' + name + ".png"} alt={'Imagen de' + name} className={styles.img__skills} /> })
+                                images.map((name) => { return <img src={'./' + name + ".png"} alt={'Imagen de' + name} className={styles.img__skills} /> })
                                 :
                                 ""
                         }
