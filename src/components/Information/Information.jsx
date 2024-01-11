@@ -1,6 +1,6 @@
 import styles from './Information.module.css';
 import { useState, useEffect } from 'react';
-import myimg from '../../../public/img/perfil.jpg'
+import myimg from '../../../public/img/Rotro.jpg'
 
 const Information = () => {
     const imagesNames = ['css', 'html', 'java', 'js', 'Mongo db', 'mysql', 'python', 'react', 'docker', 'git']
