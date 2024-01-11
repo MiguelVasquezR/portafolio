@@ -1,6 +1,6 @@
 import styles from './Information.module.css';
 import { useState, useEffect } from 'react';
-import myimg from './img/perfil.jpg'
+import myimg from '../../../public/img/Rotro.jpg'
 
 const Information = () => {
     const imagesNames = ['css', 'html', 'java', 'js', 'Mongo db', 'mysql', 'python', 'react', 'docker', 'git']
@@ -28,7 +28,7 @@ const Information = () => {
                             return (
                                 <img
                                     key={i + "-" + name}
-                                    src={'./img/Logos/' + name + ".png"}
+                                    src={'../../../public/img/Logos/' + name + ".png"}
                                     alt={'Imagen de ' + name + ' como representacion de tecnología conocida'}
                                     className={styles.img__skills}
                                 />
