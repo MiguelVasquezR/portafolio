@@ -1,0 +1,28 @@
+.card__container{
+    background-color: #fffefe;
+    color: #000;
+    border-radius: 10px;  
+    margin: 0px auto;
+    width: 90%;
+    max-width: 300px;
+}
+
+.card__img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.card__information__container{    
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.card__information__titulo{
+    font-size: 1.5rem;
+}
+
+.card__information__paragrapgh{
+    font-size: .9rem;
+    line-height: 1.5;
+    margin: 5px 0;
+}

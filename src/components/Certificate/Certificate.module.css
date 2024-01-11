@@ -1,0 +1,13 @@
+.certificate__container{
+    margin: 40px auto;        
+    width: 90%;
+}
+
+.certificate__titulo{
+    text-align: center;
+}
+
+.certificate__carrusel__container{
+    width: 90%;    
+    margin: 12px auto;    
+}

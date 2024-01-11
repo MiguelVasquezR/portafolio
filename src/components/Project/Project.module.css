@@ -1,0 +1,13 @@
+.projects__container{
+    margin: 10px auto;
+}
+
+.projects__titulo{
+    text-align: center;
+    margin: 12px 0;
+}
+
+.projects__carrusel__container{
+    margin: 10px auto;
+    width: 85%;
+}

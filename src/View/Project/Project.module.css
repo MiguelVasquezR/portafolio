@@ -1,0 +1,47 @@
+.project__container{
+    margin: 50px 0;
+}
+
+.project__titulo{
+    font-size: 2rem;
+    margin: 10px 15px;
+}
+
+.project__paragraph{
+    margin: 10px 15px;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+.project__carrusel__container{
+    background-color: #fff;
+    margin: 10px auto;
+    width: 90%;
+    height: 100px;
+}
+
+.project__link{ 
+    margin: 20px 15px;
+    cursor: pointer;   
+    width: 200px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: #000;
+    color: white;
+    font-family: inherit;
+}
+
+.project__link__repositorio{
+    width: 20px;
+    margin: 5px;
+}
+
+.footer__container{    
+    border-radius: 10px 10px 0 0;
+    background-color: #000;
+}

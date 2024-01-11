@@ -1,0 +1,17 @@
+:root{
+  --color-black: #2C2C2C;
+  --font--principal: Montserrat;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--color-black);
+  color: white;
+  font-family: Montserrat;
+  font-size: 20px;
+}
